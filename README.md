@@ -35,17 +35,19 @@ As a small business owner, I want to be able to write and save notes so that I c
 - CSS
 - JavaScript
 - Heroku
+- Node 
 
 ## Installation
-1. Clone the repository to your local machine.
+1. Visit https://github.com/Kingwizard96/ideal-funicular to clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Run `npm install` to install the required dependencies.
 4. Start the application using `npm start`.
 5. Open your web browser and visit `http://localhost:3000` to use the Note Taker.
 
 ## Screenshots
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![744101EC-263B-4FDC-8857-5A7053249298](https://github.com/Kingwizard96/ideal-funicular/assets/132643725/9d2792e7-8e59-4c3c-94fe-6ab476b59bda)
+
+![9375E3CC-DD35-4AC6-91A9-689C51D3175D](https://github.com/Kingwizard96/ideal-funicular/assets/132643725/f0a12404-b8c3-4271-aa86-02d568cc0800)
 
 
 ## Questions
